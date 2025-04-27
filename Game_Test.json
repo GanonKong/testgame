@@ -1,0 +1,141 @@
+{
+  "name": "Test",
+  "menuBackgroundImage": "",
+  "defaultRessources": {
+    "backgrounds": [],
+    "decksUrl": ""
+  },
+  "customHelp": "",
+  "cardRotation": 45,
+  "cards": {
+    "dataUrl": "https://ganonkong.github.io/testgame/CardList.json",
+    "cardBack": ""
+  },
+  "deckBuilding": {
+    "mainFilters": [
+      "name"
+    ],
+    "formats": [
+      {
+        "title": "Standard",
+        "gameplay": "Standard",
+        "customCategories": []
+      }
+    ]
+  },
+  "gameplay": {
+    "32fc6698-647f-418b-9e78-c6d7b09fb5e5": {
+      "mulligan": {
+        "info": "",
+        "startingHandSize": "0",
+        "drawNewHand": false,
+        "putSelectionAtBottom": false,
+        "drawNewSelectedCards": false
+      },
+      "newTurn": {
+        "drawOnStart": false,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": "0"
+      },
+      "defaultNotes": "",
+      "tokens": [],
+      "countersStartingValues": [
+        "1"
+      ],
+      "hideFacedDownCards": false,
+      "sections": {
+        "customSections": [
+          "Front (Left)",
+          "Front (Middle)",
+          "Front (Right)",
+          "Back (Left)",
+          "Back (Middle)",
+          "Back (Right)",
+          "Persistent",
+          "Field"
+        ],
+        "layout": {
+          "direction": "column",
+          "isSymetricalForOpponents": false,
+          "content": [
+            {
+              "direction": "row",
+              "style": false,
+              "content": [
+                {
+                  "section": "Front (Left)",
+                  "style": false
+                },
+                {
+                  "section": "Front (Middle)",
+                  "style": false
+                },
+                {
+                  "section": "Front (Right)",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "row",
+              "style": false,
+              "content": [
+                {
+                  "section": "Back (Left)",
+                  "style": false
+                },
+                {
+                  "section": "Back (Middle)",
+                  "style": false
+                },
+                {
+                  "section": "Back (Right)",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "row",
+              "style": false,
+              "content": [
+                {
+                  "section": "Persistent",
+                  "style": false
+                },
+                {
+                  "section": "Field",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [],
+        "autoPlayFromHand": {},
+        "autoPlayFromStack": {},
+        "sectionsDict": {
+          "Front (Left)": {
+            "title": "Front_(Left)",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Front",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "1": {
+    "id": "1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Scout",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://ganonkong.github.io/testgame/Images/Unit.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Scout",
+    "type": "Unit",
+    "cost": 0,
+    "Level": "1",
+    "Power": "1",
+    "Stamina": "3",
+    "Attribute 1": "Physical",
+    "Attribute 2": "None",
+    "Attribute 3": "None",
+    "Attribute 4": "None"
+  },
+  "2": {
+    "id": "2",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Commander",
+        "type": false,
+        "cost": 0,
+        "image": "https://ganonkong.github.io/testgame/Images/Unit.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Commander",
+    "type": "Unit",
+    "cost": 0,
+    "Level": "1",
+    "Power": "1",
+    "Stamina": "3",
+    "Attribute 1": "Physical",
+    "Attribute 2": "Fire",
+    "Attribute 3": "None",
+    "Attribute 4": "None"
+  },
+  "3": {
+    "id": "3",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Stone's Throw",
+        "type": "Ability",
+        "cost": 0,
+        "image": "https://ganonkong.github.io/testgame/Images/Ability.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stone's Throw",
+    "type": "Ability - Skill",
+    "cost": 0,
+    "Level": "1",
+    "Power": 0,
+    "Stamina": 0,
+    "Attribute 1": "Physical",
+    "Attribute 2": "Earth",
+    "Attribute 3": "None",
+    "Attribute 4": "None"
+  },
+  "4": {
+    "id": "4",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Revitalize",
+        "type": "Ability",
+        "cost": 0,
+        "image": "https://ganonkong.github.io/testgame/Images/Ability.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Revitalize",
+    "type": "Ability - Spell",
+    "cost": 0,
+    "Level": "1",
+    "Power": 0,
+    "Stamina": 0,
+    "Attribute 1": "Earth",
+    "Attribute 2": "None",
+    "Attribute 3": "None",
+    "Attribute 4": "None"
+  },
+  "5": {
+    "id": "5",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Field Rations",
+        "type": "Item",
+        "cost": 0,
+        "image": "https://ganonkong.github.io/testgame/Images/Item.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Field Rations",
+    "type": "Item",
+    "cost": 0,
+    "Level": 0,
+    "Power": 0,
+    "Stamina": 0,
+    "Attribute 1": "",
+    "Attribute 2": "",
+    "Attribute 3": "",
+    "Attribute 4": ""
+  },
+  "6": {
+    "id": "6",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Notice Letter",
+        "type": "Item",
+        "cost": 0,
+        "image": "https://ganonkong.github.io/testgame/Images/Item.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Notice Letter",
+    "type": "Item",
+    "cost": 0,
+    "Level": 0,
+    "Power": 0,
+    "Stamina": 0,
+    "Attribute 1": "",
+    "Attribute 2": "",
+    "Attribute 3": "",
+    "Attribute 4": ""
+  }
+}
