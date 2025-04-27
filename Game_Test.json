@@ -2,14 +2,16 @@
   "name": "Test",
   "menuBackgroundImage": "",
   "defaultRessources": {
-    "backgrounds": [],
+    "backgrounds": [
+      "https://valcur.github.io/TCG-Arena-Yugioh/Images/1.jpg"
+    ],
     "decksUrl": ""
   },
   "customHelp": "",
   "cardRotation": 45,
   "cards": {
     "dataUrl": "https://ganonkong.github.io/testgame/CardList.json",
-    "cardBack": ""
+    "cardBack": "https://static.wikia.nocookie.net/yugioh/images/9/95/SlifertheSkyDragon-GBI-AE-Back.png"
   },
   "deckBuilding": {
     "mainFilters": [
@@ -17,7 +19,7 @@
     ],
     "formats": [
       {
-        "title": "Standard",
+        "title": "Test",
         "gameplay": "Standard",
         "customCategories": []
       }
@@ -27,7 +29,7 @@
     "Standard": {
       "mulligan": {
         "info": "",
-        "startingHandSize": "0",
+        "startingHandSize": "1",
         "drawNewHand": false,
         "putSelectionAtBottom": false,
         "drawNewSelectedCards": false
@@ -38,10 +40,10 @@
         "firstPlayerTokenName": "",
         "drawPerTurn": "0"
       },
-      "defaultNotes": "",
+      "defaultNotes": "Test message.",
       "tokens": [],
       "countersStartingValues": [
-        "1"
+        "100"
       ],
       "hideFacedDownCards": false,
       "sections": {
@@ -114,7 +116,9 @@
             }
           ]
         },
-        "categoriesAlreadyOnBoard": [],
+        "categoriesAlreadyOnBoard": [
+          ""
+        ],
         "autoPlayFromHand": {},
         "autoPlayFromStack": {},
         "sectionsDict": {
