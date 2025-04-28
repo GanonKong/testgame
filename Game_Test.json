@@ -38,7 +38,7 @@
         "drawOnStart": false,
         "sharedTurn": false,
         "firstPlayerTokenName": "",
-        "drawPerTurn": "0"
+        "drawPerTurn": "1"
       },
       "defaultNotes": "Test message.",
       "tokens": [],
@@ -48,8 +48,8 @@
       "hideFacedDownCards": false,
       "sections": {
         "customSections": [
-          "Front Left",
-          "Front Middle",
+          "Front_Left",
+          "Front_Middle",
           "Front Right",
           "Back Left",
           "Back Middle",
@@ -71,9 +71,7 @@
                 },
                 {
                   "section": "Continuous",
-                  "style": {
-                    "padding": "8vh"
-                  }
+                  "style": false
                 }
               ],
               "isSymetricalForOpponents": false
@@ -151,13 +149,13 @@
             "height": "BIG",
             "alignment": "CENTER",
             "opponentAlignment": false,
-            "noAutoPayTo": true,
+            "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
-            "isGroupForbidden": true,
+            "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
@@ -244,7 +242,7 @@
           "Continuous": {
             "title": "Continuous",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
