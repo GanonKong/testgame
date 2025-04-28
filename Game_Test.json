@@ -29,7 +29,7 @@
     "Standard": {
       "mulligan": {
         "info": "",
-        "startingHandSize": "1",
+        "startingHandSize": "0",
         "drawNewHand": false,
         "putSelectionAtBottom": false,
         "drawNewSelectedCards": false
@@ -63,7 +63,10 @@
           "content": [
             {
               "direction": "row",
-              "style": false,
+              "style": {
+                "width": "15vh",
+                "border": "2px solid black"
+              },
               "content": [
                 {
                   "section": "Front (Left)",
