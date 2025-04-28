@@ -29,7 +29,7 @@
     "Standard": {
       "mulligan": {
         "info": "",
-        "startingHandSize": "0",
+        "startingHandSize": "1",
         "drawNewHand": false,
         "putSelectionAtBottom": false,
         "drawNewSelectedCards": false
