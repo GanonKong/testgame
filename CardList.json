@@ -7,7 +7,7 @@
         "name": "Scout",
         "type": "Unit",
         "cost": 0,
-        "image": "https://ganonkong.github.io/testgame/Images/Unit.png",
+        "image": "https://ganonkong.github.io/testgame/Images/Tempest.png",
         "isHorizontal": false
       }
     },
@@ -30,7 +30,7 @@
         "name": "Commander",
         "type": false,
         "cost": 0,
-        "image": "https://ganonkong.github.io/testgame/Images/Unit.png",
+        "image": "https://ganonkong.github.io/testgame/Images/Mortimer_Fley.png",
         "isHorizontal": false
       }
     },
