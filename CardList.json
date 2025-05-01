@@ -53,7 +53,7 @@
         "name": "Stone's Throw",
         "type": "Ability",
         "cost": 0,
-        "image": "https://ganonkong.github.io/testgame/Images/Ability.png",
+        "image": "https://ganonkong.github.io/testgame/Images/Stones_Throw.png",
         "isHorizontal": false
       }
     },
@@ -76,7 +76,7 @@
         "name": "Revitalize",
         "type": "Ability",
         "cost": 0,
-        "image": "https://ganonkong.github.io/testgame/Images/Ability.png",
+        "image": "https://ganonkong.github.io/testgame/Images/Notice_Letter.png",
         "isHorizontal": false
       }
     },
