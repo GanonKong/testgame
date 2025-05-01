@@ -76,7 +76,7 @@
         "name": "Revitalize",
         "type": "Ability",
         "cost": 0,
-        "image": "https://ganonkong.github.io/testgame/Images/Notice_Letter.png",
+        "image": "https://ganonkong.github.io/testgame/Images/Ability.png",
         "isHorizontal": false
       }
     },
@@ -122,7 +122,7 @@
         "name": "Notice Letter",
         "type": "Item",
         "cost": 0,
-        "image": "https://ganonkong.github.io/testgame/Images/Item.png",
+        "image": "https://ganonkong.github.io/testgame/Images/Notice_Letter.png",
         "isHorizontal": false
       }
     },
