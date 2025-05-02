@@ -169,7 +169,7 @@
           "Front_Left": {
             "title": "Front_Left",
             "isHidden": "no",
-            "height": "BIG",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -185,7 +185,7 @@
           "Front_Middle": {
             "title": "Front_Middle",
             "isHidden": "no",
-            "height": "BIG",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -201,7 +201,7 @@
           "Front_Right": {
             "title": "Front_Right",
             "isHidden": "no",
-            "height": "BIG",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -217,7 +217,7 @@
           "Back_Left": {
             "title": "Back_Left",
             "isHidden": "no",
-            "height": "BIG",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -233,7 +233,7 @@
           "Back_Middle": {
             "title": "Back_Middle",
             "isHidden": "no",
-            "height": "BIG",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -249,7 +249,7 @@
           "Back_Right": {
             "title": "Back_Right",
             "isHidden": "no",
-            "height": "BIG",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
