@@ -59,7 +59,7 @@
         ],
         "layout": {
           "direction": "row",
-          "isSymetricalForOpponents": false,
+          "isSymetricalForOpponents": true,
           "content": [
             {
               "direction": "column",
@@ -68,13 +68,9 @@
                 {
                   "section": "Field",
                   "style": false
-                },
-                {
-                  "section": "Continuous",
-                  "style": false
                 }
               ],
-              "isSymetricalForOpponents": false
+              "isSymetricalForOpponents": true
             },
             {
               "direction": "column",
@@ -97,7 +93,7 @@
                       "style": false
                     }
                   ],
-                  "isSymetricalForOpponents": false
+                  "isSymetricalForOpponents": true
                 },
                 {
                   "direction": "row",
@@ -116,10 +112,21 @@
                       "style": false
                     }
                   ],
-                  "isSymetricalForOpponents": false
+                  "isSymetricalForOpponents": true
                 }
               ],
-              "isSymetricalForOpponents": false
+              "isSymetricalForOpponents": true
+            },
+            {
+              "direction": "column",
+              "style": false,
+              "content": [
+                {
+                  "section": "Continuous",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": true
             }
           ]
         },
