@@ -169,7 +169,7 @@
           "Front_Left": {
             "title": "Front_Left",
             "isHidden": "no",
-            "height": "BIG",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -185,7 +185,7 @@
           "Front_Middle": {
             "title": "Front_Middle",
             "isHidden": "no",
-            "height": "BIG",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -201,7 +201,7 @@
           "Front_Right": {
             "title": "Front_Right",
             "isHidden": "no",
-            "height": "BIG",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
